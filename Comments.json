@@ -1,0 +1,54 @@
+[
+    { 
+      "id":"C001",
+      "id_product_product": "P001",
+      "comment": "Excelente y rápido envío.",
+      "user":"Pame-Jen",
+      "fecha_comment":"19-10-2022",
+      "valoracion":5
+
+    },
+    { 
+      "id":"C002",
+      "id_product": "P002",
+      "comment": "Buen embalaje. Llegó en perfecto estado.",
+      "user":"Berny",
+      "fecha_comment":"19-10-2022",
+      "valoracion":4
+    },
+    { 
+      "id":"C003",
+      "id_product": "P001",
+      "comment": "Me encantó mi plantita ;).",
+      "user":"Catalina",
+      "fecha_comment":"19-10-2022",
+      "valoracion":4
+    },
+    { 
+      "id":"C004",
+      "id_product": "P003",
+      "comment": "Excelente para regalo. Muchas Gracias.",
+      "user":"Javier",
+      "fecha_comment":"19-10-2022",
+      "valoracion":3
+    },
+    { 
+      "id":"C005",
+      "id_product": "P003",
+      "comment": "Envío rápido.",
+      "user":"Francisca",
+      "fecha_comment":"19-10-2022",
+      "valoracion":5
+    },
+    { 
+      "id":"C006",
+      "id_product": "P009",
+      "comment": "Muy pequeña para mi gusto.",
+      "user":"Roberto",
+      "fecha_comment":"19-10-2022",
+      "valoracion":2
+    }
+
+
+  ]
+  

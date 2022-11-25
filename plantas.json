@@ -1,0 +1,180 @@
+[
+    {
+      "id": "P001",
+      "desc": "La peperomia (Peperomia spp.) es una planta de interior de lo más decorativa, gracias a sus frondosas ramas y a sus hojas bellas y originales. Además, es muy sencilla de cultivar, ya que se adapta de maravilla a cualquier entorno y no es exigente en sus cuidados.",
+      "img": "https://raw.githubusercontent.com/pame-jcm/plantas-image/main/plantas/peperonia/peperonia_1.png",
+      "ingredients": ["Interior", "Riego Moderado", "Sol Indirecto"],
+      "name": "Peperomia",
+      "price": 5950,
+      "favorito": false,
+      "valoracion": 4,
+      "categoria":"Plantas"
+    },
+    {
+      "id": "P002",
+      "desc": "Monstera deliciosa, llamada comúnmente cerimán o costilla de Adán, es una especie de planta trepadora de la familia Araceae, endémica de selvas tropicales, que se distribuye desde el centro y sur de México hasta el norte de Argentina.",
+      "img": "https://raw.githubusercontent.com/pame-jcm/plantas-image/main/plantas/monstera/monstera.png",
+      "ingredients": ["Interior", "Riego Moderado", "Sol Indirecto"],
+      "name": "Monstera",
+      "price": 7250,
+      "favorito": false,
+      "valoracion": 3,
+      "categoria":"Plantas"
+    },
+    {
+      "desc": "Sansevieria trifasciata es una planta semisuculenta que crece en rosetas basales y verticales, las hojas son erectas, lanceoladas, agudas y rígidas, de 40 a 140 cm de largo y unos 4 a 10 cm de ancho.",
+      "id": "P003",
+      "img": "https://raw.githubusercontent.com/pame-jcm/plantas-image/main/plantas/sansevieria/sansevieria.png",
+      "ingredients": ["Interior", "Riego Moderado", "Sol Indirecto"],
+      "name": "Sansevieria",
+      "price": 5990,
+      "favorito": true,
+      "valoracion": 5,
+      "categoria":"Plantas"
+    },
+    {
+      "desc": "Árbol siempre verde de copa ancha y frondosa, normalmente con raíces aéreas, pudiendo alcanzar hasta 20 m de altura. Tronco con la corteza gris blanqueci- na, lisa. Ramillas colgantes, verdosas, glabras.",
+      "id": "P004",
+      "img": "https://raw.githubusercontent.com/pame-jcm/plantas-image/main/plantas/ficus_benjamina/ficus_benjamina.png",
+      "ingredients": ["Interior", "Riego Moderado", "Sol Indirecto"],
+      "name": "Ficus Benjamina",
+      "price": 9590,
+      "favorito": false,
+      "valoracion": 5,
+      "categoria":"Plantas"
+    },
+    {
+      "desc": "Es un arbusto de hoja perenne que alcanza de 3 a 6 metros de altura tanto de forma aislada, como trepadora o como epífita de otros árboles. Las hojas son palmeadas compuestas, con 7 o 9 foliolos obovados.",
+      "id": "P005",
+      "img": "https://raw.githubusercontent.com/pame-jcm/plantas-image/main/plantas/shefflera/shefflera.png",
+      "ingredients": ["Interior", "Riego Moderado", "Sol Indirecto"],
+      "name": "Shefflera",
+      "price": 6450,
+      "favorito": true,
+      "valoracion": 5,
+      "categoria":"Plantas"
+    },
+    {
+      "desc": "Es una planta de desarrollo bastante rápido, de forma que es fácil que doble su altura en un solo año. - Arbusto de hojas grandes, gruesas y recortadas por el margen. - Dentro de la especie Fatsia japónica hay una variedad llamada \"Variegata\", con hojas con manchas blancas o de color crema.",
+      "id": "P006",
+      "img": "https://raw.githubusercontent.com/pame-jcm/plantas-image/main/plantas/aralia/aralia_japonica.png",
+      "ingredients": ["Interior", "Riego Moderado", "Sol Indirecto"],
+      "name": "Aralia Japonica",
+      "price": 8500,
+      "favorito": false,
+      "valoracion": 4,
+      "categoria":"Plantas"
+    },
+    {
+      "desc": "Las especies del género Crassula son plantas herbáceas anuales o perennes, o arbustos arborescentes con una altura de hasta 2,5 metros. Rara vez crecen como tubérculos - geófitos . Sus raíces son fibrosas y carnosas. Los brotes son suculentos, a veces se vuelven leñosos.",
+      "id": "P007",
+      "img": "https://raw.githubusercontent.com/pame-jcm/plantas-image/main/suculentas/crassula.png",
+      "ingredients": ["Interior", "Riego Moderado", "Sol Indirecto"],
+      "name": "Crassula",
+      "price": 8500,
+      "favorito": false,
+      "valoracion": 4,
+      "categoria":"Suculentas"
+    },{
+      "desc": "Las plantas variegadas son aquellas cuyas hojas no son por completo verdes, sino que tienen partes blancas o de otros colores (amarillas o rojas, en variados matices), debido sobre todo a que la clorofila no está presente en toda su superficie.",
+      "id": "P008",
+      "img": "https://raw.githubusercontent.com/pame-jcm/plantas-image/main/suculentas/suculenta_variegada.png",
+      "ingredients": ["Interior", "Riego Moderado", "Sol Indirecto"],
+      "name": "Suculenta Variegada",
+      "price": 8500,
+      "favorito": false,
+      "valoracion": 4,
+      "categoria":"Suculentas"
+    },{
+      "desc": "Las plantas variegadas son aquellas cuyas hojas no son por completo verdes, sino que tienen partes blancas o de otros colores (amarillas o rojas, en variados matices), debido sobre todo a que la clorofila no está presente en toda su superficie.",
+      "id": "P009",
+      "img": "https://raw.githubusercontent.com/pame-jcm/plantas-image/main/suculentas/sucelenta_2.png",
+      "ingredients": ["Interior", "Riego Moderado", "Sol Indirecto"],
+      "name": "Suculenta",
+      "price": 8500,
+      "favorito": false,
+      "valoracion": 4,
+      "categoria":"Suculentas"
+    },{
+      "desc": "Las flores de las buganvillas son en realidad inflorescencias, ya que estas se componen de tres brácteas en cuyo interior se encuentran tres flores blanco-amarillentas y tubulares, apareciendo durante prácticamente todo el año.",
+      "id": "P010",
+      "img": "https://raw.githubusercontent.com/pame-jcm/plantas-image/main/flores/buganvilia.png",
+      "ingredients": ["Interior", "Riego Moderado", "Sol Indirecto"],
+      "name": "Buganvilia",
+      "price": 8500,
+      "favorito": false,
+      "valoracion": 4,
+      "categoria":"Flores"
+    },{
+      "desc": "Las orquídeas u orquidáceas (nombre científico Orchidaceae) son una familia de plantas monocotiledóneas que se distinguen por la complejidad de sus flores y por sus interacciones ecológicas con los agentes polinizadores y con los hongos con los que forman micorrizas.",
+      "id": "P011",
+      "img": "https://raw.githubusercontent.com/pame-jcm/plantas-image/main/flores/orquidea.png",
+      "ingredients": ["Interior", "Riego Moderado", "Sol Indirecto"],
+      "name": "Orquidea",
+      "price": 8500,
+      "favorito": false,
+      "valoracion": 4,
+      "categoria":"Flores"
+    },{
+      "desc": "Lo más característico son sus flores, compuestas por muchísimos pétalos que se superponen unos a otros, creando flores muy hermosas y llamativas, en forma de bola o pompón. También son habituales en color amarillo o violáceo. Crisantemo margarita: es una de las variedades más conocidas.",
+      "id": "P012",
+      "img": "https://raw.githubusercontent.com/pame-jcm/plantas-image/main/flores/crisantemo.png",
+      "ingredients": ["Interior", "Riego Moderado", "Sol Indirecto"],
+      "name": "Crisantemo",
+      "price": 8500,
+      "favorito": false,
+      "valoracion": 4,
+      "categoria":"Flores"
+    },{
+      "desc": "El naranjo es un árbol de tamaño mediano, de tres a cinco metros de altura, con copa redondeada y ramas regulares. Un solo tronco, derecho y cilíndrico, verdoso primero y gris después. Las ramas aparecen a un metro, poco más o menos, del suelo.",
+      "id": "P013",
+      "img": "https://raw.githubusercontent.com/pame-jcm/plantas-image/main/frutales/naranjo.png",
+      "ingredients": ["Interior", "Riego Moderado", "Sol Indirecto"],
+      "name": "Naranjo",
+      "price": 8500,
+      "favorito": false,
+      "valoracion": 4,
+      "categoria":"Frutales"
+    },{
+      "desc": "Fruta cítrica pequeña y amarilla que es una fuente de ácido cítrico y ácido ascórbico (vitamina C). El jugo se usa para dar sabor a la comida y la bebida, y para prevenir el escorbuto.",
+      "id": "P014",
+      "img": "https://raw.githubusercontent.com/pame-jcm/plantas-image/main/frutales/limonero.png",
+      "ingredients": ["Interior", "Riego Moderado", "Sol Indirecto"],
+      "name": "Limonero",
+      "price": 8500,
+      "favorito": false,
+      "valoracion": 4,
+      "categoria":"Frutales"
+    },{
+      "desc": "Útiles para todo tipo de trabajos.",
+      "id": "P015",
+      "img": "https://raw.githubusercontent.com/pame-jcm/plantas-image/main/herramientas/pala_rastrillo.png",
+      "ingredients": ["Interior", "Riego Moderado", "Sol Indirecto"],
+      "name": "Palas y Rastrillo",
+      "price": 8500,
+      "favorito": false,
+      "valoracion": 4,
+      "categoria":"Herramientas"
+    },{
+      "desc": "Las herramientas de jardinería son aquellas utilizadas para fines domésticos, así como para actividades jardineras a gran escala (urbanismo, espacios verdes, mantenimiento y jardinería sustentable). Dentro de esta categoría se aglomeran muchísimas herramientas, de diferentes tamaños y para diversos usos.",
+      "id": "P016",
+      "img": "https://raw.githubusercontent.com/pame-jcm/plantas-image/main/herramientas/set_herramientas.png",
+      "ingredients": ["Interior", "Riego Moderado", "Sol Indirecto"],
+      "name": "Set Herramientas con Delantal",
+      "price": 8500,
+      "favorito": false,
+      "valoracion": 4,
+      "categoria":"Herramientas"
+    },{
+      "desc": "Las herramientas de jardinería son aquellas utilizadas para fines domésticos, así como para actividades jardineras a gran escala (urbanismo, espacios verdes, mantenimiento y jardinería sustentable). Dentro de esta categoría se aglomeran muchísimas herramientas, de diferentes tamaños y para diversos usos.",
+      "id": "P017",
+      "img": "https://raw.githubusercontent.com/pame-jcm/plantas-image/main/herramientas/set_herramientas_con_regadero.png",
+      "ingredients": ["Interior", "Riego Moderado", "Sol Indirecto"],
+      "name": "Set Herramientas con Regadera",
+      "price": 8500,
+      "favorito": false,
+      "valoracion": 4,
+      "categoria":"Herramientas"
+    }
+  ]
+  

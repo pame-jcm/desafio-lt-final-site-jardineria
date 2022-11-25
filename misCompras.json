@@ -1,0 +1,41 @@
+[
+    {
+      "id": "P001",
+      "img": "https://raw.githubusercontent.com/pame-jcm/plantas-image/main/plantas/peperonia/peperonia_1.png", 
+      "name": "Napolitana",
+      "desc": "La pizza es una preparación culinaria que consiste en un pan plano, habitualmente de forma circular.",
+      "price":5990,
+      "despacho":{
+            "etapa_despacho": 3,
+            "estado_entrega":"Entregado",
+            "fecha_entrega":"19-10-2022",
+            "observaciones":""
+            }
+    },
+    {
+      "id": "P002",
+      "img": "https://raw.githubusercontent.com/pame-jcm/plantas-image/main/plantas/monstera/monstera.png",
+      "desc": "La pizza es una preparación culinaria que consiste en un pan plano, habitualmente de forma circular.",
+      "price":2500,
+      "despacho":{
+            "etapa_despacho": 4,
+            "estado_entrega":"Entregado",
+            "fecha_entrega":"9-10-2022",
+            "observaciones":""
+            }
+    },
+    {
+      "id": "P003",
+      "img": "https://raw.githubusercontent.com/pame-jcm/plantas-image/main/plantas/sansevieria/sansevieria.png",
+      "name": "Salame",
+      "desc": "La pizza es una preparación culinaria que consiste en un pan plano, habitualmente de forma circular.",
+      "price":6990,
+      "despacho":{
+            "etapa_despacho": 5,
+            "estado_entrega":"Entregado",
+            "fecha_entrega":"5-10-2022",
+            "observaciones":""
+            }
+    }
+  ]
+  
